@@ -17,7 +17,7 @@
 	<body>
 	    <div class="background">
 	        <div class="container">
-	            <h1 class="title">Gestion</h1>
+	            <h1 class="title">Gestion hintel</h1>
 	            <form class="box-login" action="#" method="post">
 	                <legend>Connexion</legend>
 	                <div class="mails content-input">
