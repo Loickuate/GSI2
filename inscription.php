@@ -14,6 +14,7 @@
 		<link href="https://fonts.googleapis.com/css?family=Roboto:300i,400,500" rel="stylesheet">
 	</head>
 	<body>
+		<P>Juste une modification</p>
 		<div class="background">
 			<div class="container-inscription">
 				<h1 class="title">Gestion app</h1>	
